@@ -4,9 +4,9 @@
   "description": "Sistema Web do Projeto CRI",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon server.js",
+    "server": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install && npm run build pull"
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install && npm run build pullgit"
   },
   "author": "JM Franco",
   "license": "MIT",
