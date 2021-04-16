@@ -1,5 +1,5 @@
 {
-  "name": "siswebcri",
+  "name": "siswebcri-backend",
   "version": "1.1.0",
   "description": "Sistema Web do Projeto CRI",
   "main": "index.js",

@@ -43,6 +43,7 @@ module.exports = {
       produto,
       entidade,
       aprovado_pedido,
+      enviado_pedido,
       status_pedido,
       updatedAt,
       _id,
@@ -60,6 +61,7 @@ module.exports = {
       produto,
       entidade,
       aprovado_pedido,
+      enviado_pedido,
       status_pedido,
       updatedAt,
     };
